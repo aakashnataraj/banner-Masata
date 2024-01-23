@@ -224,8 +224,8 @@ nav ul li a{
     }
 
     .logo{
-       margin-top: -12%; 
-       margin-left: -5%;
+       margin-top: -18%; 
+       margin-left: -15%;
     }
 
 
@@ -241,8 +241,8 @@ nav ul li a{
     .check-btn{
         display: block;
         position: relative;
-        top: -25px;
-        left: -18%;
+        top: -30px;
+        left: -25%;
     }
 
 
@@ -279,7 +279,7 @@ nav ul li a{
     .login-btn a{
         position: relative;
         left: 60%;
-        bottom: 25px;
+        bottom: 35px;
     }
 
 
